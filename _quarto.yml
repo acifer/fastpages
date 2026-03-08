@@ -3,7 +3,7 @@ project:
   output-dir: _site
 
 website:
-  title: "Your Name"
+  title: "Aadil Rasheed"
   description: "Personal webpage & blog"
   favicon: images/favicon.ico
 
@@ -22,7 +22,7 @@ website:
         href: https://twitter.com/your-username
 
   page-footer:
-    center: "© 2026 Your Name. Made with [Quarto](https://quarto.org)."
+    center: "© 2026 Aadil Rasheed. Made with [Quarto](https://quarto.org)."
 
 format:
   html:

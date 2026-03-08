@@ -1,12 +1,12 @@
 ---
-title: "Your Name"
+title: "Aadil Rasheed"
 subtitle: "Developer · Researcher · Writer"
 page-layout: full
 toc: false
 ---
 
 ::: {.hero-section}
-## Hi, I'm Your Name 👋
+## Hi, I'm Aadil Rasheed 👋
 
 I'm a [your role here] passionate about [your interests]. I write about [topics] and build [projects].
 
