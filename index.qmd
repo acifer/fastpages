@@ -52,7 +52,7 @@ Check out my [blog](posts/index.qmd) for the latest articles on [your topics].
 
 ## Get in Touch
 
-- **Email**: your@email.com
+- **Email**: Aadilcifer@icloud.com
 - **GitHub**: [github.com/your-username](https://github.com/your-username)
-- **Twitter**: [@your-username](https://twitter.com/your-username)
+- **Twitter**: [@Aadilcifer](https://twitter.com/Aadilcifer)
 - **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)
