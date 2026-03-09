@@ -1,0 +1,191 @@
+[
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a [your role] based in [your location].\n\nI’m passionate about [your interests]. My work focuses on [your focus areas]."
+  },
+  {
+    "objectID": "about.html#hi-im-aadil-rasheed",
+    "href": "about.html#hi-im-aadil-rasheed",
+    "title": "About Me",
+    "section": "",
+    "text": "I’m a [your role] based in [your location].\n\nI’m passionate about [your interests]. My work focuses on [your focus areas]."
+  },
+  {
+    "objectID": "about.html#skills",
+    "href": "about.html#skills",
+    "title": "About Me",
+    "section": "Skills",
+    "text": "Skills\n\n\nProgramming\n\nPython\nR\nJavaScript\n\n\n\nTools & Frameworks\n\nQuarto\nGit\nDocker\n\n\n\nAreas\n\nData Science\nMachine Learning\nWeb Development"
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\nJob Title | Company Name | 2022 – Present Brief description of your role and key achievements.\nPrevious Role | Previous Company | 2020 – 2022 Brief description of your role and key achievements."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nDegree | University Name | Year Field of study."
+  },
+  {
+    "objectID": "about.html#contact",
+    "href": "about.html#contact",
+    "title": "About Me",
+    "section": "Contact",
+    "text": "Contact\nFeel free to reach out via email or connect on LinkedIn."
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html",
+    "href": "posts/2020-01-14-test-markdown-post.html",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "In Quarto, blog post files live in the posts/ directory and use the .qmd extension.\nYou can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#basic-setup",
+    "href": "posts/2020-01-14-test-markdown-post.html#basic-setup",
+    "title": "An Example Markdown Post",
+    "section": "",
+    "text": "In Quarto, blog post files live in the posts/ directory and use the .qmd extension.\nYou can use italics, bold, code font text, and create links. Here’s a footnote 1. Here’s a horizontal rule:"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#lists",
+    "href": "posts/2020-01-14-test-markdown-post.html#lists",
+    "title": "An Example Markdown Post",
+    "section": "Lists",
+    "text": "Lists\nHere’s a list:\n\nitem 1\nitem 2\n\nAnd a numbered list:\n\nitem 1\nitem 2"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
+    "href": "posts/2020-01-14-test-markdown-post.html#boxes-and-stuff",
+    "title": "An Example Markdown Post",
+    "section": "Boxes and stuff",
+    "text": "Boxes and stuff\n\nThis is a quotation\n\n\n\n\n\n\n\nWarning\n\n\n\nYou can include alert boxes using Quarto callouts.\n\n\n\n\n\n\n\n\nNote\n\n\n\nYou can include info boxes like this."
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#images",
+    "href": "posts/2020-01-14-test-markdown-post.html#images",
+    "title": "An Example Markdown Post",
+    "section": "Images",
+    "text": "Images\n\n\n\nfast.ai’s logo"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#code",
+    "href": "posts/2020-01-14-test-markdown-post.html#code",
+    "title": "An Example Markdown Post",
+    "section": "Code",
+    "text": "Code\nYou can format text and code per usual.\nGeneral preformatted text:\n# Do a thing\ndo_thing()\nPython code and output:\n# Prints '2'\nprint(1+1)\n2\nFormatting text as shell commands:\necho \"hello world\"\n./some_script.sh --option \"value\"\nFormatting text as YAML:\nkey: value\n- another_key: \"another value\""
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#tables",
+    "href": "posts/2020-01-14-test-markdown-post.html#tables",
+    "title": "An Example Markdown Post",
+    "section": "Tables",
+    "text": "Tables\n\n\n\nColumn 1\nColumn 2\n\n\n\n\nA thing\nAnother thing"
+  },
+  {
+    "objectID": "posts/2020-01-14-test-markdown-post.html#footnotes",
+    "href": "posts/2020-01-14-test-markdown-post.html#footnotes",
+    "title": "An Example Markdown Post",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nThis is the footnote.↩︎"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Aadil Rasheed",
+    "section": "",
+    "text": "I’m a [your role here] passionate about [your interests]. I write about [topics] and build [projects].\nAbout Me Read My Blog"
+  },
+  {
+    "objectID": "index.html#hi-im-aadil-rasheed",
+    "href": "index.html#hi-im-aadil-rasheed",
+    "title": "Aadil Rasheed",
+    "section": "",
+    "text": "I’m a [your role here] passionate about [your interests]. I write about [topics] and build [projects].\nAbout Me Read My Blog"
+  },
+  {
+    "objectID": "index.html#featured-projects",
+    "href": "index.html#featured-projects",
+    "title": "Aadil Rasheed",
+    "section": "Featured Projects",
+    "text": "Featured Projects\n\n\nProject One\nBrief description of your first project. What problem it solves and what technologies you used.\nGitHub\n\n\nProject Two\nBrief description of your second project. What problem it solves and what technologies you used.\nGitHub\n\n\nProject Three\nBrief description of your third project. What problem it solves and what technologies you used.\nGitHub"
+  },
+  {
+    "objectID": "index.html#recent-posts",
+    "href": "index.html#recent-posts",
+    "title": "Aadil Rasheed",
+    "section": "Recent Posts",
+    "text": "Recent Posts\nCheck out my blog for the latest articles on [your topics]."
+  },
+  {
+    "objectID": "index.html#get-in-touch",
+    "href": "index.html#get-in-touch",
+    "title": "Aadil Rasheed",
+    "section": "Get in Touch",
+    "text": "Get in Touch\n\nEmail: Aadilcifer@icloud.com\nGitHub: github.com/your-username\nTwitter: @Aadilcifer\nLinkedIn: linkedin.com/in/your-username"
+  },
+  {
+    "objectID": "posts/index.html",
+    "href": "posts/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "GitHub Actions: Providing Data Scientists With New Superpowers\n\n\n\nactions\n\nmarkdown\n\n\n\nA Tutorial on GitHub Actions For Data Scientists\n\n\n\n\n\nMar 6, 2020\n\n\nHamel Husain & Jeremy Howard\n\n\n\n\n\n\n\n\n\n\n\n\nAn Example Markdown Post\n\n\n\nmarkdown\n\n\n\nA minimal example of using markdown with fastpages.\n\n\n\n\n\nJan 14, 2020\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html",
+    "href": "posts/2020-03-06-fastpages-actions.html",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "",
+    "text": "Hi, I’m Hamel Husain. I’m a machine learning engineer at GitHub. Recently, GitHub released a new product called GitHub Actions, which has mostly flown under the radar in the machine learning and data science community as just another continuous integration tool.\nRecently, I’ve been able to use GitHub Actions to build some very unique tools for Data Scientists, which I want to share with you today. Most importantly, I hope to get you excited about GitHub Actions, and the promise it has for giving you new superpowers as a Data Scientist. Here are two projects I recently built with Actions that show off its potential:\n\n\nfastpages is an automated, open-source blogging platform with enhanced support for Jupyter notebooks. You save your notebooks, markdown, or Word docs into a directory on GitHub, and they automatically become blog posts.\n\n\n\nWouldn’t it be cool if you could invoke a chatbot natively on GitHub to test your machine learning models on the infrastructure of your choice (GPUs), log all the results, and give you a rich report back in a pull request so that everyone could see the results? You can with GitHub Actions!\nConsider the below annotated screenshot of this Pull Request:\n \nA more in-depth explanation about the above project can be viewed in this video.\nUsing GitHub Actions for machine learning workflows is starting to catch on. Julien Chaumond, CTO of Hugging Face, says:\n\nGitHub Actions are great because they let us do CI on GPUs (as most of our users use the library on GPUs not on CPUs), on our own infra! 1\n\nAdditionally, you can host a GitHub Action for other people so others can use parts of your workflow without having to re-create your steps. I provide examples of this below."
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#fastpages",
+    "href": "posts/2020-03-06-fastpages-actions.html#fastpages",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "",
+    "text": "fastpages is an automated, open-source blogging platform with enhanced support for Jupyter notebooks. You save your notebooks, markdown, or Word docs into a directory on GitHub, and they automatically become blog posts."
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#machine-learning-ops",
+    "href": "posts/2020-03-06-fastpages-actions.html#machine-learning-ops",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "",
+    "text": "Wouldn’t it be cool if you could invoke a chatbot natively on GitHub to test your machine learning models on the infrastructure of your choice (GPUs), log all the results, and give you a rich report back in a pull request so that everyone could see the results? You can with GitHub Actions!\nConsider the below annotated screenshot of this Pull Request:\n \nA more in-depth explanation about the above project can be viewed in this video.\nUsing GitHub Actions for machine learning workflows is starting to catch on. Julien Chaumond, CTO of Hugging Face, says:\n\nGitHub Actions are great because they let us do CI on GPUs (as most of our users use the library on GPUs not on CPUs), on our own infra! 1\n\nAdditionally, you can host a GitHub Action for other people so others can use parts of your workflow without having to re-create your steps. I provide examples of this below."
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#what-are-github-actions",
+    "href": "posts/2020-03-06-fastpages-actions.html#what-are-github-actions",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "What Are GitHub Actions?",
+    "text": "What Are GitHub Actions?\nGitHub Actions allow you to run arbitrary code in response to events. Events are activities that happen on GitHub such as:\n\nOpening a pull request\nMaking an issue comment\nLabeling an issue\nCreating a new branch\n… and many more\n\nWhen an event is created, the GitHub Actions context is hydrated with a payload containing metadata for that event. Below is an example of a payload that is received when an issue is created:\n{\n  \"action\": \"created\",\n  \"issue\": {\n    \"id\": 444500041,\n    \"number\": 1,\n    \"title\": \"Spelling error in the README file\",\n    \"user\": {\n      \"login\": \"Codertocat\",\n      \"type\": \"User\"\n    },\n    \"labels\": [\n      {\n        \"id\": 1362934389,\n        \"name\": \"bug\"\n      }\n    ],\n    \"body\": \"It looks like you accidently spelled 'commit' with two 't's.\"\n  }\n}\nThis functionality allows you to respond to various events on GitHub in an automated way."
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#example-a-fastpages-action-workflow",
+    "href": "posts/2020-03-06-fastpages-actions.html#example-a-fastpages-action-workflow",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "Example: A fastpages Action Workflow",
+    "text": "Example: A fastpages Action Workflow\nThe best way to familiarize yourself with Actions is by studying examples. Let’s take a look at the Action workflow that automates the build of fastpages.\n\nPart 1: Define Workflow Triggers\nThe top of the YAML file looks like this:\nname: CI\non:\n  push:\n    branches:\n      - master\n  pull_request:\nThis means that this workflow is triggered on either a push or pull request event.\n\n\nPart 2: Define Jobs\nNext, we define jobs:\njobs:\n  build-site:\n    if: ( github.event.commits[0].message != 'Initial commit' ) || github.run_number &gt; 1\n    runs-on: ubuntu-latest\n    steps:\n\n\nPart 3: Define Steps\nBelow are the first two steps in our workflow:\n   - name: Copy Repository Contents\n     uses: actions/checkout@master\n     with:\n       persist-credentials: false\n\n   - name: convert notebooks and word docs to posts\n     uses: ./_action_files\nThe final step deploys the website:\n  - name: Deploy\n    if: github.event_name == 'push'\n    uses: peaceiris/actions-gh-pages@v3\n    with:\n      deploy_key: ${{ secrets.SSH_DEPLOY_KEY }}\n      publish_dir: ./_site"
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#related-materials",
+    "href": "posts/2020-03-06-fastpages-actions.html#related-materials",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "Related Materials",
+    "text": "Related Materials\n\nGitHub Actions official documentation\nHello world Docker Action\nAwesome Actions: A curated list of interesting GitHub Actions by topic.\n\n\nGetting In Touch\n\nHamel Husain @HamelHusain\nJeremy Howard @jeremyphoward"
+  },
+  {
+    "objectID": "posts/2020-03-06-fastpages-actions.html#footnotes",
+    "href": "posts/2020-03-06-fastpages-actions.html#footnotes",
+    "title": "GitHub Actions: Providing Data Scientists With New Superpowers",
+    "section": "Footnotes",
+    "text": "Footnotes\n\n\nYou can see some of Hugging Face’s Actions workflows for machine learning on GitHub↩︎"
+  }
+]
