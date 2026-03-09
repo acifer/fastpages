@@ -6,6 +6,7 @@ website:
   title: "Aadil Rasheed"
   description: "Personal webpage & blog"
   favicon: images/favicon.ico
+  site-url: https://acifer.github.io/fastpages
 
   navbar:
     left:
