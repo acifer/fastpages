@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Aadil Rasheed"
+  description: "Personal webpage & blog"
+  favicon: images/favicon.ico
+
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: posts/index.qmd
+        text: Blog
+      - href: about.qmd
+        text: About
+    right:
+      - icon: github
+        href: https://github.com/your-username
+      - icon: twitter
+        href: https://twitter.com/Aadilcifer
+
+  page-footer:
+    center: "© 2026 Aadil Rasheed. Made with [Quarto](https://quarto.org)."
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true

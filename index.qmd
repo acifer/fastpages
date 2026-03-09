@@ -1,0 +1,58 @@
+---
+title: "Aadil Rasheed"
+subtitle: "Developer · Researcher · Writer"
+page-layout: full
+toc: false
+---
+
+::: {.hero-section}
+## Hi, I'm Aadil Rasheed 👋
+
+I'm a [your role here] passionate about [your interests]. I write about [topics] and build [projects].
+
+[About Me](about.qmd){.btn .btn-primary}  [Read My Blog](posts/index.qmd){.btn .btn-outline-secondary}
+:::
+
+---
+
+## Featured Projects
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+### Project One
+Brief description of your first project. What problem it solves and what technologies you used.
+
+[GitHub](https://github.com){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Project Two
+Brief description of your second project. What problem it solves and what technologies you used.
+
+[GitHub](https://github.com){.btn .btn-sm .btn-outline-primary}
+:::
+
+::: {.g-col-12 .g-col-md-4}
+### Project Three
+Brief description of your third project. What problem it solves and what technologies you used.
+
+[GitHub](https://github.com){.btn .btn-sm .btn-outline-primary}
+:::
+
+:::
+
+---
+
+## Recent Posts
+
+Check out my [blog](posts/index.qmd) for the latest articles on [your topics].
+
+---
+
+## Get in Touch
+
+- **Email**: Aadilcifer@icloud.com
+- **GitHub**: [github.com/your-username](https://github.com/your-username)
+- **Twitter**: [@Aadilcifer](https://twitter.com/Aadilcifer)
+- **LinkedIn**: [linkedin.com/in/your-username](https://linkedin.com/in/your-username)

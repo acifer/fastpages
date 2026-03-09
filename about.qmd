@@ -1,0 +1,67 @@
+---
+title: "About Me"
+toc: false
+---
+
+## Hi, I'm Aadil Rasheed
+
+I'm a [your role] based in [your location].
+
+<!-- Replace this section with your own bio -->
+
+I'm passionate about [your interests]. My work focuses on [your focus areas].
+
+---
+
+## Skills
+
+::: {.grid}
+
+::: {.g-col-12 .g-col-md-4}
+**Programming**
+
+- Python
+- R
+- JavaScript
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Tools & Frameworks**
+
+- Quarto
+- Git
+- Docker
+:::
+
+::: {.g-col-12 .g-col-md-4}
+**Areas**
+
+- Data Science
+- Machine Learning
+- Web Development
+:::
+
+:::
+
+---
+
+## Experience
+
+**Job Title** | Company Name | 2022 – Present
+Brief description of your role and key achievements.
+
+**Previous Role** | Previous Company | 2020 – 2022
+Brief description of your role and key achievements.
+
+---
+
+## Education
+
+**Degree** | University Name | Year
+Field of study.
+
+---
+
+## Contact
+
+Feel free to reach out via [email](mailto:Aadilcifer@icloud.com) or connect on [LinkedIn](https://linkedin.com/in/your-username).
